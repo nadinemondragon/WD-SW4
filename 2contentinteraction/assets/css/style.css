@@ -70,11 +70,11 @@ nav a:hover {
 
 .content ul li:hover {
     transform: scale(1.05);
-    background-color: #b0e0e6;
+    background-color: rgb(218, 179, 218);
 }
 
 .content ul li img {
-    width: 100px; /* Adjust the width as needed */
+    width: 100px; 
     height: auto;
     border-radius: 10px;
     margin-right: 1em;

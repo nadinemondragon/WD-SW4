@@ -27,7 +27,7 @@ nav a {
     font-family: 'Pacifico', cursive;
     font-size: 1em;
     padding: 0.3em 0.7em;
-    background-color: #ff69b4;
+    background-color: rgb(144, 206, 178);
     border-radius: 10px;
     transition: background-color 0.3s;
 }
@@ -57,7 +57,7 @@ nav a:hover {
 }
 
 .content ul li {
-    background-color: #ffb6c1;
+    background-color: rgb(240, 179, 179);
     padding: 0.8em;
     margin: 0.4em;
     border-radius: 10px;
@@ -69,7 +69,7 @@ nav a:hover {
 
 .content ul li:hover {
     transform: scale(1.05);
-    background-color: lavenderblush;
+    background-color:rgb(144, 206, 178);
 }
 
 .content ul li img {
@@ -79,6 +79,11 @@ nav a:hover {
     margin-bottom: 0.5em;
 }
 
+.content ul li h3 {
+    font-family: 'Pacifico', cursive;
+     font-size: 1.3em;
+     margin: 0.5em 0;
+ }
 
 
 footer {

@@ -47,6 +47,12 @@ nav a:hover {
     margin-bottom: 1em;
 }
 
+.content ul li h3 {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.2em;
+    margin: 0.5em 0;
+}
+
 .content ul {
     list-style: none;
     padding: 0;

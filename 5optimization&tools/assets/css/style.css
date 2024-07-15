@@ -52,6 +52,12 @@ nav a:hover {
     margin-bottom: 0.8em;
 }
 
+.content ul li h3 {
+    font-family: 'Pacifico', cursive;
+     font-size: 1.5em;
+     margin: 0.5em 0;
+ }
+
 .content ul {
     list-style: none;
     padding: 0;
@@ -65,7 +71,7 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #ffb6c1;
+    background-color: rgb(208, 178, 230);
     padding: 1em;
     margin: 0.5em 0;
     border-radius: 10px;
@@ -76,7 +82,7 @@ nav a:hover {
 
 .content ul li:hover {
     transform: scale(1.05);
-    background-color: lavenderblush;
+    background-color: lightblue;
 }
 
 .content ul li img {
