@@ -17,17 +17,17 @@ header {
 
 nav {
     text-align: center;
-    margin: 1em 0;
+    margin: 0.5em 0;
 }
 
 nav a {
     color: #ffffff;
     text-decoration: none;
-    margin: 0 1em;
+    margin: 0 0.5em;
     font-family: 'Pacifico', cursive;
-    font-size: 1.2em;
-    padding: 0.5em 1em;
-    background-color: #ff69b4;
+    font-size: 1em;
+    padding: 0.3em 0.7em;
+    background-color: rgb(159, 205, 220);
     border-radius: 10px;
     transition: background-color 0.3s;
 }
@@ -57,11 +57,11 @@ nav a:hover {
 }
 
 .content ul li {
-    background-color: #ffb6c1;
+    background-color: lightyellow;
     padding: 1em;
     margin: 0.5em;
     border-radius: 10px;
-    width: calc(100% / 3 - 2em); /* Adjusting the width to fit 3 items per row */
+    width: calc(100% / 3 - 2em); 
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s, background-color 0.3s;
@@ -69,11 +69,11 @@ nav a:hover {
 
 .content ul li:hover {
     transform: scale(1.05);
-    background-color: #b0e0e6;
+    background-color: lavenderblush;
 }
 
 .content ul li img {
-    width: 100%;
+    width: 90%;
     height: auto;
     border-radius: 10px;
     margin-bottom: 0.5em;

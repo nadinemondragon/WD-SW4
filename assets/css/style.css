@@ -17,7 +17,7 @@ header {
 }
 
 .logo img {
-    width: 100px; /* Adjust size as needed */
+    width: 100px; 
     height: auto;
 }
 
@@ -37,7 +37,7 @@ header {
     font-family: 'Pacifico', cursive;
     font-size: 1.5em;
     margin: 0;
-    color: #ffb6c1; /* pastel pink */
+    color: #ffb6c1; 
 }
 
 .description {
@@ -47,7 +47,7 @@ header {
 }
 
 nav {
-    background-color: #333333;
+    background-color: #ffb6c1;
     text-align: center;
     padding: 1em 0;
 }
@@ -77,12 +77,26 @@ nav ul li a:hover {
     background-color: #555555;
 }
 
+.center-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3em 0;
+}
+
+.center-image img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 20px;
+}
+
+
 footer {
     background-color: #000000;
     color: #ffffff;
     text-align: center;
     padding: 1em 0;
-    position: absolute;
+    position:fixed;
     bottom: 0;
     width: 100%;
 }
