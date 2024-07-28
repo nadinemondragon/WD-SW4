@@ -12,7 +12,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
- The website is a focused exploration of TikTok's features, showcasing tools for content creation, interaction, audio options, and optimization strategies. It serves as a practical resource for users aiming to maximize their TikTok experience.
+ This project showcases the cutting-edge features of the iPhone 15 Pro Max and the MacBook Pro through visually appealing and creative web pages.
 </div>
 
 <br />
@@ -38,12 +38,28 @@ Guiding Question:
   The project involves creating a website that showcases various features of TikTok, highlighting its capabilities in content creation, interaction, audio features, and optimization.
   
 - Whats the purpose?
-  The purpose of the website is to inform users about these functionalities and demonstrate how they can enhance their experience on TikTok.
+  The purpose of this project is to create a multi-page website that showcases the features of the latest technology products, specifically the iPhone 15 Pro Max and the MacBook Pro, using distinct HTML and CSS designs for each page.
 - What are key components?
-  - Detailed descriptions of TikTok features such as Duet, Stitch, Video Editing, Filters, Slideshow Maker, and Voiceover.
-  - Visual elements like images and icons representing each feature.
-  - Navigation menu for easy access to different feature pages.
-  - Responsive design to ensure compatibility across different devices.
+  - Landing Page
+
+Title: Feature Display
+Subtitle: Seatwork 4
+Description: An introduction to the project, explaining its goal to present the features of cutting-edge technology products.
+Navigation Links: Links to the feature pages for the iPhone 15 Pro Max and MacBook Pro.
+iPhone 15 Pro Max Features Page
+
+Hero Section: Featuring an image and brief introduction to the iPhone 15 Pro Max.
+Feature Sections: Detailed descriptions and images of key features such as the advanced camera system, unmatched performance, all-day battery life, brilliant display, and sleek design.
+MacBook Pro Features Page
+
+Hero Section: Featuring an image and brief introduction to the MacBook Pro.
+Feature Sections: Detailed descriptions and images of key features such as the stunning Retina display, powerful performance, long-lasting battery, and sleek design.
+Design and Layout
+
+Cohesive Fonts: Use of 'Poppins' for general text and 'Dancing Script' for titles and decorative text.
+Color Scheme: Black, white, and pastel colors to create a minimalistic and visually appealing design.
+Responsive Design: Ensuring the website is functional and visually appealing across different devices and screen sizes.
+Creative and Interactive Elements: Utilizing animations and hover effects to enhance user experience.
 - What technology used and how it is used?
   Technology used includes HTML for structuring content, CSS for styling the layout and design.
 
